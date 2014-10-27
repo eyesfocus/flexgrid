@@ -1,0 +1,60 @@
+body {
+	display: block;
+	margin: 0;
+	font-family: 'Josefin Slab', serif;
+	color: #44077A;
+}
+
+h1 {
+	font-size: 6.8em;
+	color: #F2EE2A;
+}
+
+h2 {
+	font-size: 3.4em;
+	font-weight: normal;
+	color: #44077A;
+}
+
+p {
+	font-size: 1.8em;
+	line-height: 1.3em;
+	color: #44077A;
+}
+
+.page {
+	padding: 0 15px;
+}
+
+.content {
+	max-width: 960px;
+	margin: 0 auto;
+}
+
+.header {
+	background-color: #44077A;
+	padding: 5px 0;
+	text-align: center;
+}
+
+.section {
+	background-color: #38CBB6;
+	color: #1C3A40;
+	padding: 20px 0 80px 0;
+}
+
+.flexgrid {
+	margin: 20px 0;
+}
+
+
+
+
+
+.fg-row {
+	background-color: rgba(255, 255, 255, .8);
+}
+
+.fg-pusher {
+	background-color: rgba(68, 7, 122, .2);
+}
